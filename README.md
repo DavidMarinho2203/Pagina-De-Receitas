@@ -52,8 +52,8 @@ Use esta seção para delinear áreas nas quais você deseja continuar focando e
 
 ## Autor
 
-- Site - [Adicione seu nome aqui](David Beckham)
-- Mentor de Frontend - [@seunomedeusuário](https://www.frontendmentor.io/profile/DavidMarinho2203)
+- Site - [Site Ativo](https://pagina-de-receitas-gmpw1gis7.vercel.app/)
+- Mentor de Frontend - [@DavidMarinho2203](https://www.frontendmentor.io/profile/DavidMarinho2203)
 
 
 ## Agradecimentos
