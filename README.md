@@ -52,7 +52,7 @@ Use esta seção para delinear áreas nas quais você deseja continuar focando e
 
 ## Autor
 
-- Site - [Site Ativo](https://pagina-de-receitas-gmpw1gis7.vercel.app/)
+- Site - [Site Ativo](https://pagina-de-receitas.vercel.app/)
 - Mentor de Frontend - [@DavidMarinho2203](https://www.frontendmentor.io/profile/DavidMarinho2203)
 
 
