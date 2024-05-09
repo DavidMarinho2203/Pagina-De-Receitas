@@ -40,9 +40,8 @@ Uma coisa importante que eu aprendi, foi usar o devtools. Pois é mas fácil par
 
 ### Desenvolvimento contínuo
 
-Use esta seção para delinear áreas nas quais você deseja continuar focando em projetos futuros. Podem ser conceitos com os quais você ainda não está completamente confortável ou técnicas que você achou úteis e que deseja refinar e aperfeiçoar.
-
-**Observação: exclua esta nota e o conteúdo desta seção e substitua-a por seus próprios planos para desenvolvimento contínuo.**
+Gostei bastante de usar o mobile first, por isso, vou está usando esse método daqui para frente.
+Vou usar também o devtools, para me ajudar nos estilos, pois eu vi que ajuda bastante também.
 
 ### Recursos úteis
 
