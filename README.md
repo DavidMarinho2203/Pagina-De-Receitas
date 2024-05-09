@@ -14,8 +14,6 @@ Esta é uma solução para o [desafio da página de receitas no Frontend Mentor]
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-**Observação: exclua esta nota e atualize o índice com base nas seções que você mantém.**
-
 ## Visão geral
 
 ### Pequeno Resumo
